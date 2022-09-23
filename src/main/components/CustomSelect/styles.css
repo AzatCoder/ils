@@ -1,0 +1,8 @@
+.select__box {
+  border-radius: 4px;
+}
+
+
+.select__box:hover {
+  background: rgba(0, 0, 0, .02);
+}

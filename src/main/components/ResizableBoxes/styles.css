@@ -1,0 +1,17 @@
+.resizable__layout {
+  width: 1200px;
+  display: flex;
+  overflow: hidden;
+}
+
+.resizable__box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: solid 5px #121212;
+}
+
+.resizable__second-box {
+  width: 100%;
+  min-width: 10px;
+}

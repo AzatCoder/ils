@@ -1,0 +1,7 @@
+.customtable__row {
+  cursor: pointer;
+}
+
+.customtable__row-active {
+  background: rgba(148, 148, 148, 0.1)
+}
